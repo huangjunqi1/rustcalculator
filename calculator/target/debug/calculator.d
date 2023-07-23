@@ -1,0 +1,1 @@
+D:\work\GradeTwo\rust\mywork\rustcalculator\calculator\target\debug\calculator.exe: D:\work\GradeTwo\rust\mywork\rustcalculator\calculator\src\lib.rs D:\work\GradeTwo\rust\mywork\rustcalculator\calculator\src\main.rs
